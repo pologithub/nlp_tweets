@@ -3,11 +3,6 @@ import dash_bootstrap_components as dbc
 import os
 import pandas as pd
 import plotly.express as px
-from utils import *
-from model import *
-from bertopic import BERTopic
-from graph import wordcloud_plot
-import glob
 import dash_bootstrap_components as dbc
 from dash import html
 
